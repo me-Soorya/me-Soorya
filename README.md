@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- Soft premium gradient background -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1c1c1e&height=220&section=header&text=&fontSize=0" />
+<!-- Premium dark gradient background -->
+<img src="https://images.unsplash.com/photo-1526498460520-4c246339dccb?auto=format&fit=crop&w=1400&q=80" width="100%" height="220" style="object-fit:cover; border-radius:12px;" />
 
-<!-- Animated greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=34&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello;Hola;नमस्ते;Bonjour;Hallo;Ciao;こんにちは;안녕하세요" />
+<br/><br/>
 
-<br/>
+<!-- Animated greeting (GIF - fading languages) -->
+<img src="PASTE_YOUR_GREETING_FADE_GIF_HERE" width="420" />
 
-<!-- Subtle tagline -->
+<br/><br/>
+
+<!-- Minimal tagline -->
 <p style="color:#8e8e93; font-size:14px;">
-Minimalist developer • Crafting elegant digital experiences
+Minimalist developer • Building quiet, refined digital experiences
 </p>
 
 </div>
