@@ -1,52 +1,41 @@
-<h1 align="center">Soorya</h1>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=I+Code%2C+Play+Keyboard+and+Love+Music+!!" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5Z3Z0ZzRndTNwZzZ0am16cHZtc29scW9scDRpY3ZsY3A0ZzhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nruE/giphy.gif" width="100%" alt="Cyberpunk Grid Banner">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQp0p2u4ZK/giphy.gif" width="260" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=450&lines=%5B%5B+SYSTEM+INITIALIZED+%5D%5D;Multi-Stack+Developer;Building+for+the+Next+Grid" alt="Typing SVG" />
 </p>
 
----
-
-### // SYSTEM PROFILE
-
----
-
-### // TECH STACK
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-00F5FF?style=for-the-badge&logo=flutter&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-0FF7D2?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <a href="#-core-grid"><img src="https://img.shields.io/badge/STATUS-ACTIVE-00F0FF?style=flat-square&logoColor=00F0FF" alt="Status"></a>
+  <a href="#-system-metrics"><img src="https://img.shields.io/badge/LOC-0x0A_KERALA-FFB000?style=flat-square" alt="Location"></a>
 </p>
 
 ---
 
-### // NEURAL ACTIVITY
+## ⚡ // OVERVIEW
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soorya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soorya&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+A multi-stack developer building low-latency mobile interfaces and modular web architectures. Focused on bridging clean, functional code with striking, minimalist aesthetics. 
 
 ---
 
-### // DIGITAL FLOW
+## 🦾 // THE CORE GRID
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soorya&bg_color=0d1117&color=00f5ff&line=8a2be2&point=ffffff&hide_border=true" />
-</p>
+| 📂 CURRENT_PROJECTS | 🛠️ COMPILED_STACK |
+| :--- | :--- |
+| <ul><li>**OptiTrace** 👁️<br>Pupillary reflex analyzer logic for smartphone-based screening.</li><li>**V.I.B.E.** 🪐<br>Refining syntax modules for a custom interpreted environment.</li><li>Exploring advanced mobile architectures & reactive patterns.</li></ul> | **LANGUAGES:**<br>`Python` `Dart` `JavaScript` `PHP`<br><br>**FRAMEWORKS:**<br>`Flutter` `React (Vite)` `React Native`<br><br>**INFRASTRUCTURE:**<br>`Firebase` `Git` `Linux` |
 
 ---
 
-### // SIGNALS
+## 📊 // SYSTEM METRICS
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200" />
-</p>
+<!-- WAKATIME INTEGRATION -->
+### 🕒 Weekly Development Cycles (WakaTime)
+Here is a breakdown of time spent across different environments over the last 7 days:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soorya&style=flat-square&color=00f5ff" />
-</p>
+```text
+<!-- START_SECTION:wakatime -->
+<!-- This section will be automatically populated by the WakaTime workflow below -->
+Aborted: Waiting for background sync...
+<!-- END_SECTION:wakatime -->
