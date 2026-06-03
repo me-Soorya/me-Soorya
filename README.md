@@ -1,11 +1,10 @@
-<!-- SUBTLE ANIMATED TOP ACCENT -->
+<!-- BOLD TAGLINE INSIDE A STRUCTURED BOX -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p5Z3Z0ZzRndTNwZzZ0am16cHZtc29scW9scDRpY3ZsY3A0ZzhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nruE/giphy.gif" width="100%" height="60px" style="object-fit: cover; border-radius: 6px;" alt="Ambient Background">
-</p>
 
-<!-- BOLD ORANGE TAGLINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3500&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+Code%2C+Play+Keyboard+and+Make+Music+!!" alt="Tagline" />
+| |
+| :---: |
+| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3500&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+Code%2C+Play+Keyboard+and+Make+Music+!!" alt="Tagline" /> |
+
 </p>
 
 <p align="center">
