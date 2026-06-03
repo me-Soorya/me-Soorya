@@ -1,65 +1,8 @@
-# 
+#
 
 <div align="center">
-  <!-- Minimalist Header Icon / Silhouette -->
-  <p align="center">
-    <ins></ins>
-  </p>
-  
-  <h1 align="center"><strong>Think deeper. Build cleaner.</strong></h1>
-  
-  <p align="center">
-    <strong>Multi-Stack Developer & Technical Designer</strong>
-  </p>
-
-  <p align="center">
-    <a href="mailto:your.email@domain.com">Email</a> • 
-    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
-    <a href="https://yourportfolio.dev">Portfolio</a>
-  </p>
+  <!-- This image tag displays the animated SVG header -->
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgMjAwIj4KICA8IS0tIFByZW1pdW0gRGVyayBCYWNrZ3JvdW5kIC0tPgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiMxYTFhMWUiLz4KCiAgPCEtLSBEZWZpbmUgQXBwbGUtU3R5bGUgVHlwb2dyYXBoeSAtLT4KICA8c3R5bGU+IAogICAgQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9SW50ZXI6d2dodEA1MDA7NzAwJmFtcDtkaXNwbGF5PXN3YXAnKTsKICAgIC5ncmVldGluZ3sKICAgICAgZm9udC1mYW1pbHk6ICdJbnRlcicsIC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgU2Vnb2UgVUksIFJvYm90bywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgZmlsbDogI0Y1RjVGNzsKICAgICAgZm9udC1zaXplOiA0OHB4OwogICAgICBmb250LXdlaWdodDogNzAwOwogICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOwogICAgICBvcGFjaXR5OiAwOwogICAgfQogIDwvc3R5bGU+CgogIDwh--Lkxhbmd1YWdlIDEgLSBFbmdsaXNoIC0tPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkeT0iLjM1ZW0iIGNsYXNzPSJncmVldGluZyI+CiAgSGVsbG8KICA8YW5pbWF0ZSAtLT4KICAgIDxhbmltYXRlIAogICAgICBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IgogICAgICB2YWx1ZXM9IjA7IDE7IDE7IDAiCi      durPSI4cyIKICAgICAgYmVnaW49IjBzIgogICAgICByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L3RleHQ+CgogIDwh--Lkxhbmd1YWdlIDIgLSBTcGFuaXNoIC0tPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkeT0iLjM1ZW0iIGNsYXNzPSJncmVldGluZyI+CiAgSG9sYQogIDxhbmltYXRlIAogICAgICBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IgogICAgICB2YWx1ZXM9IjA7IDA7IDE7IDE7IDAiCiAgICAgIGtleVRpbWVzPSIwOyAwLjI1OyAwLjMwOyAwLjUwOyAwLjU1IgogICAgICBkdXI9IjhzIgogICAgICBiZWdpbj0iMHMiCi      yZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L3RleHQ+CgogIDwh--Lkxhbmd1YWdlIDMgLSBKYXBhbmVzZSAtLT4KIDwhLS0gTm90ZTogRGlmZmVyZW50IGZvbnQgd2VpZ2h0L3N0eWxlIGNvdWxkIGJlIGFwcGxpZWQgaGVyZSAtLT4KICA8dGV4dCB4PSIxMCUiIHk9IjUwJSIgZHk9Ii4zNWVtIiBjbGFzcz0iZ3JlZXRpbmciIHN0eWxlPSJmb250LXdlaWdodDogNTAwOyI+CiAg44GT44KT44Gr44Gh44GvCiAgPGFuaW1hdGUgCiAgICAgIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiCiAgICAgIHZhbHVlcz0iMDsgMDsgMTsgMTsgMCIKICAgICAga2V5VGltZXM9IjA7IDAuNTA7IDAuNTU7IDAuNzU7IDAuODAiCiAgICAgIGR1cj0iOHMiCiAgICAgIGJlZ2luPSIwcyIKICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC90ZXh0PgoKICA8IS0t LanguageIDQgLSBGUkVOR0ggLS0+CiAgPHRleHQgeD0iNTAlIiB5PSI1MCUiIGR5PSIuMzVlbSIgY2xhc3M9ImdyZWV0aW5nIj4KICBCb25qb3VyCiAgPGFuaW1hdGUgCiAgICAgIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiCiAgICAgIHZhbHVlcz0iMDsgMDsgMTsgMTsgMCIKICAgICAga2V5VGltZXM9IjA7IDAuNzU7IDAuODA7IDAuOTU7IDEiCiAgICAgIGR1cj0iOHMiCiAgICAgIGJlZ2luPSIwcyIKICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC90ZXh0Pgo8L3N2Zz4K" alt="Animated Greeting" width="100%" />
 </div>
 
----
-
-### 01 / Overview
-
-> "Simplicity is the ultimate sophistication." 
-
-I focus on crafting high-fidelity digital experiences that bridge the gap between complex engineering and intentional design. Currently architecting clean, responsive applications across mobile and web ecosystems while exploring the intersection of hardware interaction and data analysis.
-
----
-
-### 02 / The Stack
-
-A curated selection of tools and technologies utilized to bring ideas to execution:
-
-*   **Languages** — Python, PHP, JavaScript, TypeScript
-*   **Mobile** — Flutter, React Native
-*   **Web Ecosystem** — React (Vite), Next.js, Modern CSS
-*   **Backend & Cloud** — Node.js, Firebase, Relational Databases
-
----
-
-### 03 / Selected Work
-
-#### ▹ OptiTrace
-A smartphone-based pupillary reflex analyzer designed for rapid, non-invasive drug screening. Built with high-precision frontend rendering and robust analytical backend logic.
-*   *Status:* Shortlisted Finalist, 38th Kerala Science Congress.
-
-#### ▹ Event Infrastructure Solutions
-Engineered specialized workflow applications, including custom Firebase-integrated tracking software deployed to optimize high-volume logistics and food distribution for regional hackathons.
-
----
-
-### 04 / Metrics
-
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=333333&text_color=555555" alt="GitHub Stats" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=000000&icon_color=333333&text_color=555555" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <font size="2"> Deployed with intention. © 2026</font>
-</div>
+#
