@@ -1,8 +1,9 @@
+<!-- CENTERED TYPING SVG INSIDE A BOX -->
 <div align="center">
 
 | |
 | :---: |
-| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3500&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+Code%2C+Play+Keyboard+and+Love+Music+!!" alt="Tagline" /> |
+| <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=40&pause=1000&color=7604D7&background=FFFFFF00&vCenter=true&width=435&lines=I+CODE%2C+PLAY+KEYBOARD+AND+LOVE+MUSIC+!!" alt="Typing SVG" /></a> |
 
 </div>
 
