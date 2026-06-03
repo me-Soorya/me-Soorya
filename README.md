@@ -1,9 +1,8 @@
-<!-- CENTERED BOLD TAGLINE INSIDE A BOX -->
 <div align="center">
 
 | |
 | :---: |
-| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3500&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+Code%2C+Play+Keyboard+and+Make+Music+!!" alt="Tagline" /> |
+| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3500&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+Code%2C+Play+Keyboard+and+Love+Music+!!" alt="Tagline" /> |
 
 </div>
 
