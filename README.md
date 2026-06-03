@@ -1,41 +1,27 @@
-<!-- HEADER BANNER -->
+<!-- MINIMALIST TYPING HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5Z3Z0ZzRndTNwZzZ0am16cHZtc29scW9scDRpY3ZsY3A0ZzhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nruE/giphy.gif" width="100%" alt="Cyberpunk Grid Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1A1A1A&center=true&vCenter=true&width=550&lines=I+Code%2C+Play+Keyboard+and+Make+Music+!!" alt="Typing Tagline" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=450&lines=%5B%5B+SYSTEM+INITIALIZED+%5D%5D;Multi-Stack+Developer;Building+for+the+Next+Grid" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="#-core-grid"><img src="https://img.shields.io/badge/STATUS-ACTIVE-00F0FF?style=flat-square&logoColor=00F0FF" alt="Status"></a>
-  <a href="#-system-metrics"><img src="https://img.shields.io/badge/LOC-0x0A_KERALA-FFB000?style=flat-square" alt="Location"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1A1A1A?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## ⚡ // OVERVIEW
+### 🚀 Profile
 
-A multi-stack developer building low-latency mobile interfaces and modular web architectures. Focused on bridging clean, functional code with striking, minimalist aesthetics. 
+I am a multi-stack developer specializing in full-stack web architectures and seamless mobile experiences. I balance clean, logic-driven development with a passion for digital audio and creative production.
 
----
-
-## 🦾 // THE CORE GRID
-
-| 📂 CURRENT_PROJECTS | 🛠️ COMPILED_STACK |
-| :--- | :--- |
-| <ul><li>**OptiTrace** 👁️<br>Pupillary reflex analyzer logic for smartphone-based screening.</li><li>**V.I.B.E.** 🪐<br>Refining syntax modules for a custom interpreted environment.</li><li>Exploring advanced mobile architectures & reactive patterns.</li></ul> | **LANGUAGES:**<br>`Python` `Dart` `JavaScript` `PHP`<br><br>**FRAMEWORKS:**<br>`Flutter` `React (Vite)` `React Native`<br><br>**INFRASTRUCTURE:**<br>`Firebase` `Git` `Linux` |
+*   **Current Projects:** Developing **OptiTrace** (a mobile pupillary reflex analyzer) and building modules for **V.I.B.E.** (a custom interpreted programming language).
+*   **Core Stack:** Python, Flutter, React Native, React (Vite), PHP, and Firebase.
 
 ---
 
-## 📊 // SYSTEM METRICS
+### 📊 Development Metrics
 
-<!-- WAKATIME INTEGRATION -->
-### 🕒 Weekly Development Cycles (WakaTime)
-Here is a breakdown of time spent across different environments over the last 7 days:
-
+#### 🕒 Weekly Coding Cycles (WakaTime)
 ```text
 <!-- START_SECTION:wakatime -->
-<!-- This section will be automatically populated by the WakaTime workflow below -->
-Aborted: Waiting for background sync...
-<!-- END_SECTION:wakatime -->
+<!-- Automatically synced via GitHub Actions -->
