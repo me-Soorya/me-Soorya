@@ -8,6 +8,6 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://in.linkedin.com/in/soorya-das-k-s">LinkedIn</a> • 
+  <a href="mailto:sooryadaskeerthi@gmail.com">Email</a>
 </p>
